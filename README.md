@@ -1,5 +1,5 @@
-# discord-richpresence
-RichPrense for fivem server
+# automatic-driving
+Automatic driving for fivem server
 ## Aide
 if need help join the discord
 https://discord.gg/4tQ5JQGGfS
